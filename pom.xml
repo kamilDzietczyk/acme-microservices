@@ -10,7 +10,6 @@
 
   <modules>
     <module>service-catalog</module>
-    <!-- kolejne moduły dodasz w D4/D5 -->
   </modules>
 
   <properties>
