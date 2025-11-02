@@ -1,2 +1,6 @@
-com\acme\catalog\ServiceCatalogApplication.class
+com\acme\catalog\repo\InventoryItemRepository.class
 com\acme\catalog\HelloController.class
+com\acme\catalog\domain\Product.class
+com\acme\catalog\ServiceCatalogApplication.class
+com\acme\catalog\repo\ProductRepository.class
+com\acme\catalog\domain\InventoryItem.class
