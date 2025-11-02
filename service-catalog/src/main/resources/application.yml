@@ -6,3 +6,12 @@ management:
     web:
       exposure:
         include: health,info,prometheus
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate.format_sql: true
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
